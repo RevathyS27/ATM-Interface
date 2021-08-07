@@ -152,7 +152,7 @@ public class SignUp implements ActionListener {
 		f.setTitle("Sign Up Form");
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setLayout(null);
-        f.setBounds(370,130,500,750);
+        f.setBounds(370,60,500,750);
         f.setVisible(true);
         f.setResizable(false);
 
